@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computing
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me in xd
+- 👻 I am learning C++
 
 <!---
 chepino123pro/chepino123pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
