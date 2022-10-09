@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chepino123pro
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computing and C++
+- 🌱 I’m currently learning computing
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me in xd
 
